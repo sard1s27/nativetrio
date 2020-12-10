@@ -4,6 +4,7 @@
 
 import React, { Component } from 'react';
 import Directory from './DirectoryComponent';
+import Home from './HomeComponent';
 import { GAMES } from '../shared/games';
 
 class Main extends Component {

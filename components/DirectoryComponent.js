@@ -9,7 +9,7 @@ function Directory(props) {
             <ListItem
                 title={item.name}
                 subtitle={item.description}
-                leftAvatar={{ source: require('./images/gameClearSky.jpg')}}
+                leftAvatar={{ source: require('./images/clearSky.jpg')}}
             />
         );
     };
