@@ -2,7 +2,7 @@ export const GAMES = [
     {
         id: 0,
         name: "Game ClearSky",
-        image: "../assets/images/clearSky.jpg",
+        image: "images/clearSky.jpg",
         link: "",
         description: ""
 
@@ -10,7 +10,7 @@ export const GAMES = [
     {
         id: 1,
         name: "Game GoldOrbs",
-        image: "../assets/images/goldOrbs.jpg",
+        image: "images/goldOrbs.jpg",
         link: "",
         description: ""
 
@@ -18,7 +18,7 @@ export const GAMES = [
     {
         id: 2,
         name: "Game Smokescreen",
-        image: "../assets/images/smokeScreen.jpg",
+        image: "images/smokeScreen.jpg",
         link: "",
         description: ""
 
@@ -26,7 +26,7 @@ export const GAMES = [
     {
         id: 3,
         name: "Game BlackSpotLight",
-        image: "../assets/images/blackSpotLight.jpg",
+        image: "images/blackSpotLight.jpg",
         link: "",
         description: ""
 
